@@ -1,0 +1,5 @@
+[INFO] System booting up
+[OK] All services started
+[WARNING] Low memory detected
+[ERROR] Failed to start daemon
+[OK] Health check passed
